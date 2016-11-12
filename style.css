@@ -1,0 +1,160 @@
+.intropic{
+	background-image: url("images/Kesem.jpg") ;
+	background-size: 100%, 100%;
+	height: 100%;
+    padding: 0 !important;
+}
+.introrow{
+	height: 100%;
+}
+.container-fluid{
+	height: 108vh;
+}
+
+.introbar{
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 108vh;
+	padding-left: 40px !important;
+	width: 22% !important;
+}
+
+#intro{
+    position: relative;
+	font-family: futura-pt, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 56px;
+	color: white;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	border-bottom: 1px solid white;
+
+
+}
+
+.navbar-custom {
+    position: relative;
+    min-height: 50px;
+	font-family: futura-pt, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+}
+
+.navbar-custom a{
+	color: white;
+    display: block;
+	font-size: 36px;
+	border-bottom: 1px solid white;
+}
+
+.navbar-custom a:hover{
+	color: orange !important;
+	text-decoration: none;
+
+}
+
+.navbar-custom a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+.navbar-custom a:active{
+	color: white;
+	text-decoration: none;
+}
+.navbar-custom a:focus{
+	color: white;
+	text-decoration: none;
+}
+
+.maprow{
+	padding: 0px !important;
+	height: 100%;
+
+}
+
+#projects{
+	background-color: rgb(132, 173, 233);
+}
+
+#travelintro{
+	position: relative;
+	font-family: 'Six Caps', sans-serif;
+	text-align: center;
+	font-size: 78px;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#projectintro{
+	position: relative;
+	font-family: 'Orbitron', sans-serif;
+	text-align: center;
+	font-size: 56px;
+	color: white;
+	margin: 20px;
+	border: 5px solid white;
+	border-radius: 5px;
+}
+
+.projectrow{
+	display: table;
+	height: 300px;
+}
+
+.projectentry{
+	border-radius: 10px;
+
+    text-align: center;	
+    font-family: 'Orbitron', sans-serif;
+    font-size: 16px;
+    height: 75%;
+    width: 75%;
+}
+
+.projectentry p{
+	padding: 10px;
+}
+
+.projectentry a,
+.projectentry a:active,
+.projectentry a:focus,
+.projectentry a:visited,
+.projectentry a:hover
+{
+	color: white;
+	text-decoration: none;
+}
+
+
+#about{
+	background-color: gray;
+}
+
+#links{
+	background-color: teal;
+}
+
+
+#links a,
+#links a:active,
+#links a:focus,
+#links a:visited,
+#links a:hover
+{
+	padding: 20px;
+	color: white;
+	text-decoration: none;
+}
+#links span{
+	padding: 20px;
+	font-size: 16px;
+}
+
+.link-entry{
+  text-align:left;
+  vertical-align: middle;
+}
+
+
